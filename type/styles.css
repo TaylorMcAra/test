@@ -1,0 +1,191 @@
+/* Type */
+
+body {
+	background-color: #ffeed7;
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1.3;
+    font-size: 1em;
+    font-weight: 400;
+}
+.new-color {
+	color: pink;
+	font-weight: 900;
+}
+.other-font {
+	font-weight: 300;
+}
+
+.main2 {
+	color: #e55a6b;
+	font-size: 5em;
+	position: absolute;
+	top: 0px;
+	width: 600px;
+	left: 40px;
+	word-wrap: break-word;
+	line-height: 30px;
+	font-weight: 900;
+	/*text-shadow: 2px 2px 8px black;*/
+	mix-blend-mode: ;
+	opacity: 100%;
+	transform: rotate(90deg);
+}
+
+.main3 {
+	color: #e55a6b;
+	font-size: 5em;
+	position: absolute;
+	top: 600px;
+	width: 600px;
+	left: 40px;
+	word-wrap: break-word;
+	line-height: 30px;
+	font-weight: 900;
+	/*text-shadow: 2px 2px 8px black;*/
+	mix-blend-mode: multiply;
+	opacity: 70%;
+	transform: rotate(90deg) scaleX(3);
+	filter: blur(8px);
+
+
+}
+
+.backgroundZ {
+	color: white;
+	font-size: 2em;
+	position: absolute;
+	width: 2000px;
+	word-wrap: break-word;
+	line-height: 20px;
+	letter-spacing: 0px;
+	transform: skew(20deg, 20deg);
+	filter: blur(0px);
+
+}
+
+.O3 {
+	color: yellow;
+	font-size: 40em;
+	position: absolute;
+	margin: 0;
+	top: 150px;
+	right: 350px;
+	mix-blend-mode: darken; 
+}
+.O2 {
+	color: blue;
+	font-size: 40em;
+	position: absolute;
+	margin: 0;
+	top: 50px;
+	right: 300px;
+	mix-blend-mode: darken; 
+}
+
+.O1 {
+	color: red;
+	font-size: 40em;
+	position: absolute;
+	margin: 0;
+	top: 150px;
+	right: 250px;
+	mix-blend-mode: darken;
+	opacity: 70%; 
+}
+.main1 {
+	color: red;
+	font-size: 10em;
+	position: absolute;
+	transform: rotate(20deg);
+	margin: 0;
+	top: 1400px;
+	left: 300px;
+	mix-blend-mode: overlay;
+
+}
+.mainbg {
+	color: red;
+	font-size: 10em;
+	position: absolute;
+	transform: rotate(20deg) scaleY(4);
+	margin: 0;
+	top: 1400px;
+	left: 300px;
+	mix-blend-mode: overlay;
+	filter: blur(5px);
+}
+.T {
+	font-size: 7em;
+	font-weight: 900;
+	position: absolute;
+	margin: 0;
+	top: 446px;
+    right: 520px;
+
+}
+
+.M {
+	font-size: 7em;
+	font-weight: 900;
+	position: absolute;
+	margin: 0;
+	top: 480px;
+    right: 504px;
+}
+
+.H {
+	color: #2f2fa5;
+	font-size: 40em;
+	font-weight: 900;
+	position: absolute;
+	margin: 0;
+	top: 928px;
+    right: 440px; 
+    mix-blend-mode:;
+     
+}
+
+.K {
+	color: #2f2fa5;
+	font-size: 40em;
+	position: absolute;
+	margin: 0;
+	top: 610px;
+    right: 325px; 
+	transform: rotate(270deg);
+	mix-blend-mode:;
+	
+}
+
+.X {
+	color: #2f2fa5;
+	font-size: 7em;
+	font-weight: 900;
+	position: absolute;
+	margin: 0;
+	word-wrap: break-word;
+	width: 600px;
+	line-height: 30px;
+	left: 800px;
+	top: 40px;
+	opacity: 70%; 
+}
+
+.cursive {
+	color: white;
+	font-size: 13em;
+	word-wrap: break-word;
+	width: 900px;
+	line-height: 70px;
+	position: absolute;
+	top: 675px;
+	left: 350px;
+	font-family: 'Great Vibes', cursive;
+	mix-blend-mode: multiply;
+	text-shadow: 2px 2px 300px black;
+}
+
+
+
+
